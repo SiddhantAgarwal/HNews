@@ -19,7 +19,7 @@ func NewHNewsApp() *cli.App {
 	app.Name = "HackerNews CLI"
 	app.Usage = "Get your news on the terminal"
 	app.Flags = []cli.Flag{
-		cli.Int64Flag{
+		&cli.Int64Flag{
 			Name:  "number_of_news",
 			Value: 10,
 			Usage: "Number of news items to be fetched",
