@@ -1,4 +1,4 @@
-<a href="https://codeclimate.com/github/SiddhantAgarwal/HNews/maintainability"><img src="https://api.codeclimate.com/v1/badges/98d61b12a9a26ce9b4b9/maintainability" /></a>
+<a href="https://codeclimate.com/github/SiddhantAgarwal/HNews/maintainability"><img src="https://api.codeclimate.com/v1/badges/98d61b12a9a26ce9b4b9/maintainability" /></a> ![Go](https://github.com/SiddhantAgarwal/HNews/workflows/Go/badge.svg?branch=master)
 # HNews 
 
 Fetch top HackerNews items on a light weight CLI. 
