@@ -5,6 +5,10 @@ Fetch top HackerNews items on a light weight CLI.
 
 Powered by [newsapi] (https://newsapi.org), get your api key set it in your environment variables and you are good to go.
 
+Set API key by 
+   `export NEWS_API_KEY=<API_KEY>`
+
+
 
     NAME:
        HackerNews CLI - Get your news on the terminal
