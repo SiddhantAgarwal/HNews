@@ -23,5 +23,9 @@ Powered by [newsapi] (https://newsapi.org), get your api key set it in your envi
 Example 
 
     HNews --number_of_news 10
+    
+![Sample Output](sample_out.png)
+
 
 Built on Golang
+
