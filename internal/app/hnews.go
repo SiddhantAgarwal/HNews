@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"HNews/internal/model"
-	"HNews/internal/service"
+	"github.com/SiddhantAgarwal/HNews/internal/model"
+	"github.com/SiddhantAgarwal/HNews/internal/service"
 
 	. "github.com/logrusorgru/aurora"
 	"github.com/urfave/cli"

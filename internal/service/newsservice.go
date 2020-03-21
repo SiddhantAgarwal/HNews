@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"HNews/internal/model"
+	"github.com/SiddhantAgarwal/HNews/internal/model"
 )
 
 type service interface {

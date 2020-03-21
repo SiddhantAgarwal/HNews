@@ -1,9 +1,10 @@
 package main
 
 import (
-	"HNews/internal/app"
 	"log"
 	"os"
+
+	"github.com/SiddhantAgarwal/HNews/internal/app"
 )
 
 func main() {
