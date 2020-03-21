@@ -1,4 +1,4 @@
-module github.com/SiddhantAgarwal/HNews
+module HNews
 
 go 1.14
 
