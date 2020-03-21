@@ -31,7 +31,7 @@ func NewHNewsApp() *cli.App {
 		if apiKey == "" {
 			fmt.Println("Please set the newsapi key in environment variables")
 		} else {
-			newsService := service.NewNewsService(apiKey)
+			newsService := service.NewHackerNewsService(apiKey)
 			printNews(newsService.GetNews(context.Background(), numberOfNews))
 		}
 		return nil
