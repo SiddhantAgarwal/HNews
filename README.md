@@ -3,7 +3,7 @@
 
 Fetch top HackerNews items on a light weight CLI. 
 
-Powered by [newsapi] (https://newsapi.org), get you api key set it in your environment variables and you are good to go.
+Powered by [newsapi] (https://newsapi.org), get your api key set it in your environment variables and you are good to go.
 
 
     NAME:
